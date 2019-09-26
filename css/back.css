@@ -1,0 +1,11 @@
+#sivg_meta_box.postbox table tr:hover {
+    cursor: grab;
+}
+
+#sivg_meta_box.postbox table tr:active {
+    cursor: grabbing;
+}
+
+#sivg_meta_box.postbox .no-description {
+    color: #ccc;
+}

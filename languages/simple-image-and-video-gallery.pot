@@ -1,0 +1,90 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Image and Video Gallery\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-09-26 16:41+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.3"
+
+#: functions.php:47
+msgid "Gallery"
+msgstr ""
+
+#: components/meta_box.php:13
+msgid "Add images:"
+msgstr ""
+
+#: components/meta_box.php:14
+msgid "Choose from gallery"
+msgstr ""
+
+#: components/meta_box.php:19
+msgid "Add YouTube video:"
+msgstr ""
+
+#: components/meta_box.php:20
+msgid "Video ID"
+msgstr ""
+
+#: components/meta_box.php:21
+msgid "Insert"
+msgstr ""
+
+#: components/meta_box.php:30
+msgid "Thumbnail"
+msgstr ""
+
+#: components/meta_box.php:31
+msgid "Description"
+msgstr ""
+
+#: components/meta_box.php:32
+msgid "Link"
+msgstr ""
+
+#: components/meta_box.php:33
+msgid "Actions"
+msgstr ""
+
+#: components/meta_box.php:59 components/meta_box.php:164
+msgid "Unable to add description to videos."
+msgstr ""
+
+#: components/meta_box.php:75 components/meta_box.php:170
+msgid "Delete"
+msgstr ""
+
+#: pages/options.php:21
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#. Name of the plugin
+msgid "Simple Image and Video Gallery"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Relate images and YouTube videos to your posts. You can handle data output "
+"manually or automatically, depending on your needs."
+msgstr ""
+
+#. URI of the plugin
+msgid "#"
+msgstr ""
+
+#. Author of the plugin
+msgid "Guilherme A. Girardi"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://ejetar.com"
+msgstr ""
